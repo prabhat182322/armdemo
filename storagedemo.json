@@ -5,8 +5,8 @@
     {
       "type": "Microsoft.Storage/storageAccounts",
       "apiVersion": "2021-09-01",
-      "name": "bipeen8459iouilo",
-      "location": "eastus",
+      "name": "prabhag8459iouilo",
+      "location": "centralindia",
       "sku": {
         "name": "Standard_LRS"
       },
@@ -17,3 +17,4 @@
     }
   ]
 }
+
