@@ -5,7 +5,7 @@
     {
       "type": "Microsoft.Storage/storageAccounts",
       "apiVersion": "2021-09-01",
-      "name": "prabhag8459iouilo",
+      "name": "prabhat8459iouilo",
       "location": "centralindia",
       "sku": {
         "name": "Standard_LRS"
@@ -17,4 +17,5 @@
     }
   ]
 }
+
 
